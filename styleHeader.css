@@ -1,5 +1,5 @@
 header {
-    margin-top: 30px;
+    margin-top: 1.875rem;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -10,28 +10,28 @@ a {
 #parte1 {
     margin: 5%;
     color: #426B1F;
-    font-size: 30px;
+    font-size: 1.875rem;
     text-decoration: none;
 }
 
 #parte2 {
     margin-left: 33%;
-    font-size: 15px;
+    font-size: 0.9375rem;
     text-decoration: none;
 }
 
 
 .parte3 {
     margin-left: 3%;
-    font-size: 15px;
+    font-size: 0.9375rem;
     text-decoration: none;
 }
 
 button {
     background-color: #426B1F;
     color: white;
-    font-size: 15px;
-    width: 126px;
+    font-size: 0.9375rem;
+    width: 9.3%;
     height: 48px;
     border-radius: 10px;
     margin-left: 3%;
